@@ -1,1 +1,2 @@
 First changes
+Spesific changes for git pull command
