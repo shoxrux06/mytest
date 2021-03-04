@@ -1,2 +1,3 @@
 First changes
 Spesific changes for git pull command
+Some changes for git fetch command
