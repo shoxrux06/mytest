@@ -1,1 +1,1 @@
-Second changes
+This course will be about git clone topic
